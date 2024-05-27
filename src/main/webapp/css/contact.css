@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+
+h2 {
+    color: #333;
+    position: relative;
+    text-decoration: dotted;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 8px;
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+}
+
+th {
+    background-color: #f4f4f4;
+}
+
+.submit-button {
+    background-color: rgb(192, 192, 192);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px; 
+}
+.submit-button:hover{
+	
+	background-color: rgb(128, 128, 128);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px; 
+}
+.input-no-border1 {
+    padding: 5px 50px; 
+    text-align: left;
+}
+
+.input-no-border {
+    padding: 50px 50px; 
+    text-align: left;
+}
